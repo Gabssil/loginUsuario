@@ -25,7 +25,7 @@
                   </div>
                 </nav>
             </div> 
-            <button type="submit" class="btn btn-primary"><a href="logout.php">Sair</a></button>
+        <a href="logout.php">Sair</a>
             </body>
 
 </html>
