@@ -35,7 +35,7 @@ if (!isset($_SESSION['username'])) {
   
      <h1>Bem-vindo a sua conta!</h1>
      <p>Seus dados estão protegidos.</p>
-     <button type="submit" class="btn btn-primary"><a href="logout.php">Sair</a></button>
+      <a href="logout.php">Sair</a>
 
      
      </body>
